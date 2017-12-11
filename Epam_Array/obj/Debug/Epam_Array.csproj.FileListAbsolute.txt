@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Epam_Array\Epam_Array\bin\Debug\Epam_Array.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Array\Epam_Array\bin\Debug\Epam_Array.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Array\Epam_Array\bin\Debug\Epam_Array.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Array\Epam_Array\obj\Debug\Epam_Array.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Array\Epam_Array\obj\Debug\Epam_Array.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Array\Epam_Array\obj\Debug\Epam_Array.csprojResolveAssemblyReference.cache
